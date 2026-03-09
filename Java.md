@@ -117,3 +117,16 @@ Once you understand Java:
 
 Learn it methodically. Practice consistently.  
 Java will make you a stronger, more confident software engineer ☕✨
+
+---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://ntombizakhonamabaso.wordpress.com/)
+<br>
+**Article Link:** [Learn Java](https://ntombizakhonamabaso.wordpress.com/2026/03/09/learn-java/)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://ntombizakhonamabaso.wordpress.com/)
+<br>
+**09 March 2026**
+
